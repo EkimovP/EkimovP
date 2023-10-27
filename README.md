@@ -20,7 +20,7 @@
 
 - [ Python ](https://github.com/EkimovP#-проекты-на-языке-python-)
 - [ C++ ](https://github.com/EkimovP#-проекты-на-языке-с-)
-- [ Python / Дипломная работа бакалавриата]()
+- [ Дипломная работа бакалавриата ](https://github.com/EkimovP#-дипломная-работа-бакалавриата-)
 
 
 
