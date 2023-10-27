@@ -18,8 +18,8 @@
 <h2 align="center"> Содержание / Проекты  </h2>
 <!---------------------------------------------------------------------------------->
 
-- [ Python ](https://github.com/EkimovP/EkimovP#проекты-на-языке-python-)
-- [ C++ ](https://github.com/EkimovP/EkimovP#проекты-на-языке-с-)
+- [ Python ](https://github.com/EkimovP#проекты-на-языке-python-)
+- [ C++ ](https://github.com/EkimovP#проекты-на-языке-с-)
 - [ Python / Дипломная работа бакалавриата]()
 
 
