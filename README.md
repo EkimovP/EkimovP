@@ -227,7 +227,7 @@
 <!-------------------------------------------------------------------------------------------------------------------->
 ### [Обнаружение сигнала с помощью линейных и нелинейных методов](https://github.com/EkimovP/Graduate_work)
 
-<img src="https://github.com/EkimovP/EkimovP/assets/125445428/f18d4324-79c3-431c-a4d7-d5268d8a20b5" align="right" width=500>
+<img src="https://github.com/EkimovP/EkimovP/assets/125445428/f18d4324-79c3-431c-a4d7-d5268d8a20b5" align="right" width=450>
 
 ***Алгоритм программы:***
 1) Выбор параметров сигнала. 
