@@ -71,19 +71,19 @@
 <!-------------------------------------------------------------------------------------------------------------------->
 
 ### [Галерея из карточек](https://github.com/EkimovP/5_days_5_project/tree/main/Cities)
-<img src="![Карточки городов](https://github.com/EkimovP/EkimovP/assets/125445428/18ab6e52-deca-4656-8193-da174ca91408)" align="centre">
+<img src="https://github.com/EkimovP/EkimovP/assets/125445428/451c42a9-a5d3-40cf-b6ea-aa3decd13de1" align="center">
 <!-------------------------------------------------------------------------------------------------------------------->
 <br><br> <br><br>
 <!-------------------------------------------------------------------------------------------------------------------->
 
 ### [Drag&Drop](https://github.com/EkimovP/5_days_5_project/tree/main/Drag%20and%20Drop)
-<img src="https://github.com/EkimovP/EkimovP/assets/125445428/9e49cfd4-16b9-4e66-a579-854fd5fc1b3e" align="centre">
+<img src="https://github.com/EkimovP/EkimovP/assets/125445428/dd5828c7-dad6-4785-a86d-b1dbcd413e1a" align="center">
 <!-------------------------------------------------------------------------------------------------------------------->
 <br><br> <br><br>
 <!-------------------------------------------------------------------------------------------------------------------->
 
 ### [Мини-игра Aim Training](https://github.com/EkimovP/5_days_5_project/tree/main/Aim%20Training)
-<img src="https://github.com/EkimovP/EkimovP/assets/125445428/72165719-d320-4ae1-929f-9039955247df" align="centre">
+<img src="https://github.com/EkimovP/EkimovP/assets/125445428/d895a813-f5ba-4cc1-9ae1-4406bec15535" align="center">
 <!-------------------------------------------------------------------------------------------------------------------->
 
 <br><br> <br><br> <br><br><br><br>
