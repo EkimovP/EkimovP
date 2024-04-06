@@ -12,6 +12,10 @@
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height=24>
 <img src="https://img.shields.io/badge/-opengl-5586A4?style=for-the-badge&logo=opengl&logoColor=white" height=24>
 <img src="https://img.shields.io/badge/-Gdi+-090909?style=for-the-badge" height=24>
+<br><br>
+<img src="https://img.shields.io/badge/javascript-%23000000?style=for-the-badge&logo=javascript&logoColor=%23000000&color=%23FFFF00" height=24>
+<img src="https://img.shields.io/badge/html-%23FFE4B5?style=for-the-badge&logo=html5" height=24>
+<img src="https://img.shields.io/badge/CSS-%231E90FF?style=for-the-badge&logo=css3" height=24>
 </div>
 
 <!---------------------------------------------------------------------------------->
@@ -19,6 +23,7 @@
 <!---------------------------------------------------------------------------------->
 
 - [ Python ](https://github.com/EkimovP#-проекты-на-языке-python-)
+- [ Frontend-разработка ]()
 - [ C++ ](https://github.com/EkimovP#-проекты-на-языке-с-)
 - [ Дипломная работа бакалавриата ](https://github.com/EkimovP#-дипломная-работа-бакалавриата-)
 
@@ -55,6 +60,33 @@
 
 <br><br> <br><br> <br><br><br><br>
 
+
+
+<!---------------------------------------------------------------------------------->
+<h2 align="center"> Frontend-разработка </h2> 
+<!---------------------------------------------------------------------------------->
+
+<h3>Работы представлены на сайте – [Codepen.io](https://codepen.io/PavelEkimov/pens/public)<h3>
+
+<!-------------------------------------------------------------------------------------------------------------------->
+
+### [Галерея из карточек](https://github.com/EkimovP/5_days_5_project/tree/main/Cities)
+<img src="![Карточки городов](https://github.com/EkimovP/EkimovP/assets/125445428/18ab6e52-deca-4656-8193-da174ca91408)" align="right" width=350>
+<!-------------------------------------------------------------------------------------------------------------------->
+<br><br> <br><br>
+<!-------------------------------------------------------------------------------------------------------------------->
+
+### [Drag&Drop](https://github.com/EkimovP/5_days_5_project/tree/main/Drag%20and%20Drop)
+<img src="https://github.com/EkimovP/EkimovP/assets/125445428/9e49cfd4-16b9-4e66-a579-854fd5fc1b3e" align="right" width=350>
+<!-------------------------------------------------------------------------------------------------------------------->
+<br><br> <br><br>
+<!-------------------------------------------------------------------------------------------------------------------->
+
+### [Мини-игра Aim Training](https://github.com/EkimovP/5_days_5_project/tree/main/Aim%20Training)
+<img src="https://github.com/EkimovP/EkimovP/assets/125445428/72165719-d320-4ae1-929f-9039955247df" align="right" width=350>
+<!-------------------------------------------------------------------------------------------------------------------->
+
+<br><br> <br><br> <br><br><br><br>
 
 
 
