@@ -26,7 +26,7 @@
 - [ Python ](https://github.com/EkimovP#-проекты-на-языке-python-)
 - [ Frontend-разработка ](https://github.com/EkimovP#-frontend-разработка-)
 - [ C++ ](https://github.com/EkimovP#-проекты-на-языке-с-)
-- [ Дипломная работа бакалавриата ](https://github.com/EkimovP#-дипломная-работа-бакалавриата-)
+- [ Дипломная работа ](https://github.com/EkimovP#-дипломная-работа-)
 
 <!---------------------------------------------------------------------------------->
 <h2 align="center"> Проекты на языке Python </h2> 
