@@ -2,21 +2,26 @@
 <h3 align="center">Languages and tools / Языки и инструменты</h3>
 
 <div align="center">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height=24> 
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height=24>
+<img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white" height=24>
 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height=24>
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height=24>
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height=24>
 <img src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=Jupyter&logoColor=white" height=24>
 <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white" height=24>
 <br><br>
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height=24>
-<img src="https://img.shields.io/badge/-opengl-5586A4?style=for-the-badge&logo=opengl&logoColor=white" height=24>
-<img src="https://img.shields.io/badge/-Gdi+-090909?style=for-the-badge" height=24>
-<br><br>
 <img src="https://img.shields.io/badge/javascript-%23000000?style=for-the-badge&logo=javascript&logoColor=%23000000&color=%23FFFF00" height=24>
 <img src="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" height=24>
 <img src="https://img.shields.io/badge/html-%23FFE4B5?style=for-the-badge&logo=html5" height=24>
 <img src="https://img.shields.io/badge/CSS-%231E90FF?style=for-the-badge&logo=css3" height=24>
+<img src="https://img.shields.io/badge/bootstrap-%236A5ACD?style=for-the-badge&logo=bootstrap&logoColor=white" height=24>
+<br><br>
+<img src="https://img.shields.io/badge/Docker-%23B0E0E6?style=for-the-badge&logo=docker&logoColor=%230000FF" height=24>
+<img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white" height=24>
+<br><br>
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height=24>
+<img src="https://img.shields.io/badge/-opengl-5586A4?style=for-the-badge&logo=opengl&logoColor=white" height=24>
+<img src="https://img.shields.io/badge/-Gdi+-090909?style=for-the-badge" height=24>
 </div>
 
 <!---------------------------------------------------------------------------------->
@@ -83,6 +88,23 @@
 6. **Восстановление изображения с помощью итерационного алгоритма.**
 7. **Расчет параметра восстановления.**
 8. **Исследование зависимости параметра восстановления от шума.**
+<!-------------------------------------------------------------------------------------------------------------------->
+<br><br> <br><br>
+<!-------------------------------------------------------------------------------------------------------------------->
+### [Food_blog](https://github.com/EkimovP/Food_blog)
+
+<img src="https://github.com/user-attachments/assets/af337f6f-00cc-4f31-861f-4382d1c9c8b9" align="right" width=500>
+
+Приложение предоставляет платформу на основе фреймворка Django для управления и публикации постов. 
+Пользователи могут добавлять и редактировать записи, фильтровать их по категориям, а также 
+взаимодействовать через обратную связь.
+
+Проект поддерживает аутентификацию пользователей, интерфейс с динамическим контентом и управление доступом. 
+Он включает базовую структуру для работы с постами, категориями и шаблонами. Данное приложение обеспечивает работу 
+с базой данных SQLite (по умолчанию) с возможностью переключения на другие базы данных (PostgreSQL, MySQL).
+
+В проекте использовался Django Debug Toolbar для отладки данного веб-приложения. Было реализовано кэширование 
+для оптимизации работы сайта и снижения нагрузки на сервер.
 <!-------------------------------------------------------------------------------------------------------------------->
 
 <br><br> <br><br> <br><br><br><br>
