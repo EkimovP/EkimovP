@@ -39,7 +39,7 @@
 <!---------------------------------------------------------------------------------->
 
 <!-------------------------------------------------------------------------------------------------------------------->
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" align="right" height=28>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="display: block; margin: 0 auto;" height=28>
 
 ### [Восстановление изображения](https://github.com/EkimovP/Image_filtering)
 
@@ -73,7 +73,7 @@
 <hr style="height:3px; border-radius:10px; background-color:#3eb489;"><br>
 
 <!-------------------------------------------------------------------------------------------------------------------->
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" align="right" height=28>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="display: block; margin: 0 auto;" height=28>
 
 ### [Восстановление сигнала из свертки](https://github.com/EkimovP/Signal_recovery)
 
@@ -115,13 +115,15 @@
 <hr style="height:3px; border-radius:10px; background-color:#3eb489;"><br>
 
 <!-------------------------------------------------------------------------------------------------------------------->
-<img src="https://img.shields.io/badge/javascript-%23000000?style=for-the-badge&logo=javascript&logoColor=%23000000&color=%23FFFF00" align="right" height=28>
-<img src="https://img.shields.io/badge/html-%23FFE4B5?style=for-the-badge&logo=html5" align="right" height=28>
-<img src="https://img.shields.io/badge/CSS-%231E90FF?style=for-the-badge&logo=css3" align="right" height=28>
-<img src="https://img.shields.io/badge/bootstrap-%236A5ACD?style=for-the-badge&logo=bootstrap&logoColor=white" align="right" height=28>
-<img src="https://img.shields.io/badge/Docker-%23B0E0E6?style=for-the-badge&logo=docker&logoColor=%230000FF" align="right" height=28>
-<img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white" align="right" height=28>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" align="right" height=28>
+<img src="https://img.shields.io/badge/javascript-%23000000?style=for-the-badge&logo=javascript&logoColor=%23000000&color=%23FFFF00" style="display: block; margin: 0 auto;" height=28>
+<img src="https://img.shields.io/badge/html-%23FFE4B5?style=for-the-badge&logo=html5" style="display: block; margin: 0 auto;" height=28>
+<img src="https://img.shields.io/badge/CSS-%231E90FF?style=for-the-badge&logo=css3" style="display: block; margin: 0 auto;" height=28>
+<img src="https://img.shields.io/badge/bootstrap-%236A5ACD?style=for-the-badge&logo=bootstrap&logoColor=white" style="display: block; margin: 0 auto;" height=28>
+<img src="https://img.shields.io/badge/Docker-%23B0E0E6?style=for-the-badge&logo=docker&logoColor=%230000FF" style="display: block; margin: 0 auto;" height=28>
+<img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white" style="display: block; margin: 0 auto;" height=28>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="display: block; margin: 0 auto;" height=28>
+
+<br>
 
 ### [Food_blog](https://github.com/EkimovP/Food_blog)
 
@@ -154,9 +156,9 @@
 <h3>Работы представлены на сайте Codepen.io - https://codepen.io/PavelEkimov/pens/public<h3>
 
 <!-------------------------------------------------------------------------------------------------------------------->
-<img src="https://img.shields.io/badge/javascript-%23000000?style=for-the-badge&logo=javascript&logoColor=%23000000&color=%23FFFF00" align="right" height=28>
-<img src="https://img.shields.io/badge/html-%23FFE4B5?style=for-the-badge&logo=html5" align="right" height=28>
-<img src="https://img.shields.io/badge/CSS-%231E90FF?style=for-the-badge&logo=css3" align="right" height=28>
+<img src="https://img.shields.io/badge/javascript-%23000000?style=for-the-badge&logo=javascript&logoColor=%23000000&color=%23FFFF00" style="display: block; margin: 0 auto;" height=28>
+<img src="https://img.shields.io/badge/html-%23FFE4B5?style=for-the-badge&logo=html5" style="display: block; margin: 0 auto;" height=28>
+<img src="https://img.shields.io/badge/CSS-%231E90FF?style=for-the-badge&logo=css3" style="display: block; margin: 0 auto;" height=28>
 
 ### [Галерея из карточек](https://github.com/EkimovP/5_days_5_project/tree/main/Cities)
 
@@ -166,9 +168,9 @@
 <hr style="height:3px; border-radius:10px; background-color:#3eb489;"><br>
 
 <!-------------------------------------------------------------------------------------------------------------------->
-<img src="https://img.shields.io/badge/javascript-%23000000?style=for-the-badge&logo=javascript&logoColor=%23000000&color=%23FFFF00" align="right" height=28>
-<img src="https://img.shields.io/badge/html-%23FFE4B5?style=for-the-badge&logo=html5" align="right" height=28>
-<img src="https://img.shields.io/badge/CSS-%231E90FF?style=for-the-badge&logo=css3" align="right" height=28>
+<img src="https://img.shields.io/badge/javascript-%23000000?style=for-the-badge&logo=javascript&logoColor=%23000000&color=%23FFFF00" style="display: block; margin: 0 auto;" height=28>
+<img src="https://img.shields.io/badge/html-%23FFE4B5?style=for-the-badge&logo=html5" style="display: block; margin: 0 auto;" height=28>
+<img src="https://img.shields.io/badge/CSS-%231E90FF?style=for-the-badge&logo=css3" style="display: block; margin: 0 auto;" height=28>
 
 ### [Drag&Drop](https://github.com/EkimovP/5_days_5_project/tree/main/Drag%20and%20Drop)
 
@@ -178,9 +180,9 @@
 <hr style="height:3px; border-radius:10px; background-color:#3eb489;"><br>
 
 <!-------------------------------------------------------------------------------------------------------------------->
-<img src="https://img.shields.io/badge/javascript-%23000000?style=for-the-badge&logo=javascript&logoColor=%23000000&color=%23FFFF00" align="right" height=28>
-<img src="https://img.shields.io/badge/html-%23FFE4B5?style=for-the-badge&logo=html5" align="right" height=28>
-<img src="https://img.shields.io/badge/CSS-%231E90FF?style=for-the-badge&logo=css3" align="right" height=28>
+<img src="https://img.shields.io/badge/javascript-%23000000?style=for-the-badge&logo=javascript&logoColor=%23000000&color=%23FFFF00" style="display: block; margin: 0 auto;" height=28>
+<img src="https://img.shields.io/badge/html-%23FFE4B5?style=for-the-badge&logo=html5" style="display: block; margin: 0 auto;" height=28>
+<img src="https://img.shields.io/badge/CSS-%231E90FF?style=for-the-badge&logo=css3" style="display: block; margin: 0 auto;" height=28>
 
 ### [Мини-игра Aim Training](https://github.com/EkimovP/5_days_5_project/tree/main/Aim%20Training)
 
@@ -194,9 +196,9 @@
 <!---------------------------------------------------------------------------------->
 
 <!-------------------------------------------------------------------------------------------------------------------->
-<img src="https://img.shields.io/badge/-opengl-5586A4?style=for-the-badge&logo=opengl&logoColor=white" align="right" height=28>
-<img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" height=28>
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" align="right" height=28>
+<img src="https://img.shields.io/badge/-opengl-5586A4?style=for-the-badge&logo=opengl&logoColor=white" style="display: block; margin: 0 auto;" height=28>
+<img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" style="display: block; margin: 0 auto;" height=28>
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="display: block; margin: 0 auto;" height=28>
 
 ### [Cube openGL](https://github.com/EkimovP/Cube_openGL)
 
@@ -216,8 +218,8 @@
 <hr style="height:3px; border-radius:10px; background-color:#3eb489;"><br>
 
 <!-------------------------------------------------------------------------------------------------------------------->
-<img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" height=28>
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" align="right" height=28>
+<img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" style="display: block; margin: 0 auto;" height=28>
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="display: block; margin: 0 auto;" height=28>
 
 ### [Фильтрация сигнала от шума на основе преобразования Фурье](https://github.com/EkimovP/Signal_filtering)
 
@@ -270,8 +272,8 @@
 <hr style="height:3px; border-radius:10px; background-color:#3eb489;"><br>
 
 <!-------------------------------------------------------------------------------------------------------------------->
-<img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" height=28>
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" align="right" height=28>
+<img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" style="display: block; margin: 0 auto;" height=28>
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="display: block; margin: 0 auto;" height=28>
 
 ### [Обнаружение гармонического сигнала методом авторегрессии](https://github.com/EkimovP/Detection_by_autoregression)
 
@@ -317,8 +319,8 @@
 <hr style="height:3px; border-radius:10px; background-color:#3eb489;"><br>
 
 <!-------------------------------------------------------------------------------------------------------------------->
-<img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" height=28>
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" align="right" height=28>
+<img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" style="display: block; margin: 0 auto;" height=28>
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="display: block; margin: 0 auto;" height=28>
 
 ### [Деконволюция свертки методом максимума энтропии](https://github.com/EkimovP/Deconvolution)
 
@@ -374,8 +376,8 @@
 <!-------------------------------------------------------------------------------------------------------------------->
 <br><br> <br><br>
 <!-------------------------------------------------------------------------------------------------------------------->
-<img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" height=28>
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" align="right" height=28>
+<img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" style="display: block; margin: 0 auto;" height=28>
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="display: block; margin: 0 auto;" height=28>
 
 ### [Решение фазовой проблемы с помощью алгоритма Фиенупа](https://github.com/EkimovP/Phase_problem)
 
@@ -442,7 +444,7 @@
 нелинейные методы спектрального оценивания.
 
 <!-------------------------------------------------------------------------------------------------------------------->
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" align="right" height=28>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="display: block; margin: 0 auto;" height=28>
 
 ### [Обнаружение сигнала с помощью линейных и нелинейных методов](https://github.com/EkimovP/graduate_work)
 
