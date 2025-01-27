@@ -119,13 +119,13 @@
 
 <!-------------------------------------------------------------------------------------------------------------------->
 <div align="right">
-    <img src="https://img.shields.io/badge/javascript-%23000000?style=for-the-badge&logo=javascript&logoColor=%23000000&color=%23FFFF00" height=28>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height=28>
+    <img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white" height=28>
+    <img src="https://img.shields.io/badge/Docker-%23B0E0E6?style=for-the-badge&logo=docker&logoColor=%230000FF" height=28>
     <img src="https://img.shields.io/badge/html-%23FFE4B5?style=for-the-badge&logo=html5" height=28>
     <img src="https://img.shields.io/badge/CSS-%231E90FF?style=for-the-badge&logo=css3" height=28>
     <img src="https://img.shields.io/badge/bootstrap-%236A5ACD?style=for-the-badge&logo=bootstrap&logoColor=white" height=28>
-    <img src="https://img.shields.io/badge/Docker-%23B0E0E6?style=for-the-badge&logo=docker&logoColor=%230000FF" height=28>
-    <img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white" height=28>
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height=28>
+    <img src="https://img.shields.io/badge/javascript-%23000000?style=for-the-badge&logo=javascript&logoColor=%23000000&color=%23FFFF00" height=28>
 </div>
 
 ### [Food_blog](https://github.com/EkimovP/Food_blog)
@@ -269,9 +269,9 @@
 
 <!-------------------------------------------------------------------------------------------------------------------->
 <div align="right">
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height=28>
     <img src="https://img.shields.io/badge/-opengl-5586A4?style=for-the-badge&logo=opengl&logoColor=white" height=28>
     <img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" height=28>
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height=28>
 </div>
 
 ### [Cube openGL](https://github.com/EkimovP/Cube_openGL)
@@ -288,8 +288,8 @@
 
 <!-------------------------------------------------------------------------------------------------------------------->
 <div align="right">
-    <img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" height=28>
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height=28>
+    <img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" height=28>
 </div>
 
 ### [Фильтрация сигнала от шума на основе преобразования Фурье](https://github.com/EkimovP/Signal_filtering)
@@ -333,8 +333,8 @@
 
 <!-------------------------------------------------------------------------------------------------------------------->
 <div align="right">
-    <img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" height=28>
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height=28>
+    <img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" height=28>
 </div>
 
 ### [Обнаружение гармонического сигнала методом авторегрессии](https://github.com/EkimovP/Detection_by_autoregression)
@@ -372,8 +372,8 @@
 
 <!-------------------------------------------------------------------------------------------------------------------->
 <div align="right">
-    <img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" height=28>
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height=28>
+    <img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" height=28>
 </div>
 
 ### [Деконволюция свертки методом максимума энтропии](https://github.com/EkimovP/Deconvolution)
@@ -421,8 +421,8 @@
 
 <!-------------------------------------------------------------------------------------------------------------------->
 <div align="right">
-    <img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" height=28>
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height=28>
+    <img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" height=28>
 </div>
 
 ### [Решение фазовой проблемы с помощью алгоритма Фиенупа](https://github.com/EkimovP/Phase_problem)
