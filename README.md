@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height=24>
     <img src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=Jupyter&logoColor=white" height=24>
     <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white" height=24>
+    <img src="https://img.shields.io/badge/OpenCV-red?style=for-the-badge&logo=opencv&logoColor=%230000FF&color=%23228B22" height=24>
     <br><br>
     <img src="https://img.shields.io/badge/javascript-%23000000?style=for-the-badge&logo=javascript&logoColor=%23000000&color=%23FFFF00" height=24>
     <img src="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" height=24>
@@ -41,6 +42,10 @@
 <!-------------------------------------------------------------------------------------------------------------------->
 <div align="right">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height=28>
+    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height=28>
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height=28>
+    <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white" height=28>
+    <img src="https://img.shields.io/badge/OpenCV-red?style=for-the-badge&logo=opencv&logoColor=%230000FF&color=%23228B22" height=28>
 </div>
 
 ### [Восстановление изображения](https://github.com/EkimovP/Image_filtering)
@@ -72,6 +77,10 @@
 <!-------------------------------------------------------------------------------------------------------------------->
 <div align="right">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height=28>
+    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height=28>
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height=28>
+    <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white" height=28>
+    <img src="https://img.shields.io/badge/OpenCV-red?style=for-the-badge&logo=opencv&logoColor=%230000FF&color=%23228B22" height=28>
 </div>
 
 ### [Восстановление сигнала из свертки](https://github.com/EkimovP/Signal_recovery)
@@ -102,6 +111,8 @@
 6. **Восстановление изображения с помощью итерационного алгоритма.**
 7. **Расчет параметра восстановления.**
 8. **Исследование зависимости параметра восстановления от шума.**
+
+**Подпроект:** [Восстановление изображения из свертки](https://github.com/EkimovP/Image_recovery)
 <!-------------------------------------------------------------------------------------------------------------------->
 
 <hr>
