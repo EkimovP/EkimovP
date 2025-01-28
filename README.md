@@ -261,6 +261,55 @@
 </div>
 <!-------------------------------------------------------------------------------------------------------------------->
 
+<hr>
+
+<!-------------------------------------------------------------------------------------------------------------------->
+<div align="right">
+    <img src="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" height=28>
+    <img src="https://img.shields.io/badge/html-%23FFE4B5?style=for-the-badge&logo=html5" height=28>
+    <img src="https://img.shields.io/badge/CSS-%231E90FF?style=for-the-badge&logo=css3" height=28>
+</div>
+
+### [Просмотр персонажей Rick And Morty](https://github.com/EkimovP/TheRickAndMorty)
+
+<img src="https://github.com/user-attachments/assets/f6c8e501-1bc5-4fc8-bceb-11e34c548865" style="margin-left: 20px" align="right" width=500>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Этот проект представляет собой веб-приложение, разработанное с использованием 
+HTML, TypeScript и использует API Rick And Morty для отображения информации о персонажах. Включает функции пагинации, 
+фильтрации по имени персонажа и другим параметрам, а также страницы с подробной информацией о персонаже.
+<br>
+
+**В проекте реализовано следующее:** 
+1. Получение данных из API Rick And Morty (использование асинхронных функций). 
+2. Управление пагинацией. 
+3. Поиск и фильтрация. Реализована функция для фильтрации персонажей по имени и дополнительным критериям (виду и статусу). 
+4. Каждая карточка персонажа динамически генерируется на основе полученных данных.
+<!-------------------------------------------------------------------------------------------------------------------->
+
+<hr>
+
+<!-------------------------------------------------------------------------------------------------------------------->
+<div align="right">
+    <img src="https://img.shields.io/badge/javascript-%23000000?style=for-the-badge&logo=javascript&logoColor=%23000000&color=%23FFFF00" height=28>
+    <img src="https://img.shields.io/badge/html-%23FFE4B5?style=for-the-badge&logo=html5" height=28>
+    <img src="https://img.shields.io/badge/CSS-%231E90FF?style=for-the-badge&logo=css3" height=28>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height=28>
+</div>
+
+### [Классический контрол ArrangeBox](https://github.com/EkimovP/ArrangeBox)
+
+<img src="https://github.com/user-attachments/assets/d98a0ec2-0e86-41d3-8de7-5a61ee992927" style="margin-left: 20px" align="right" width=500>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Данный контрол представляет собой два поля, расположенных на одном горизонтальном уровне, и позволяет выбрать несколько значений из списка.
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Пользователь может: перемещать, изменять, удалять, фильтровать и добавлять новые позиции в списки.
+В опциях пользователь может: посмотреть все позиции в списках, вернуть контрол в исходное состояние и создать новый контрол.
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;P.S. Проект можно запустить через сервер.
+
+<!-------------------------------------------------------------------------------------------------------------------->
+
 <br><br> <br><br> <br><br><br><br>
 
 <!---------------------------------------------------------------------------------->
